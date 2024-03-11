@@ -60,8 +60,8 @@ nav {
 }
 
 #Skills .container {
-    padding-bottom: 200px;
-    padding: 0 80px;
+    /* padding-bottom: 200px; */
+    padding: 0 50px;
 }
 
 #Skills .col-md-3 {
