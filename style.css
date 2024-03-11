@@ -3,19 +3,19 @@ nav {
 }
 
 .jumbotron {
-    padding-top: 10rem;
+    padding-top: 5rem;
     color: white;
     background-color: #1e1e66;
 }
 
 .jumbotron h1 {
     /* font-family: ; */
-    padding: 90px;
+    padding: 50px;
     /* font-weight: bold; */
 }
 
 .jumbotron img {
-    max-width: 70%;
+    max-width: 20%;
     box-shadow: 0 0 50px 15px #404fc0;
     transition: all 0.4s ease-in-out;
 }
@@ -39,7 +39,8 @@ nav {
 }
 
 .card {
-    margin: 5px 2rem;
+    width: 240px;
+    margin: 5px auto;
     transition: all 0.6s ease-in-out;
 }
 
@@ -53,7 +54,7 @@ nav {
 }
 
 #Skills {
-    padding-top: 200px;
+    padding-top: 100px;
     background-color: #1e1e66
 }
 
@@ -93,13 +94,14 @@ nav {
 
 #Skills p {
     color: white;
-    margin-top: 30px;
+    margin-top: 10px;
     margin-bottom: 120px;
 }
 
 #Contact {
     font-size: 20px;
     padding-bottom: 80px;
+    background-color: white;
 }
 
 #Contact button {
