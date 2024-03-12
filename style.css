@@ -1,7 +1,3 @@
-nav {
-    font-size: 18px;
-}
-
 .jumbotron {
     padding-top: 5rem;
     color: white;
@@ -15,7 +11,7 @@ nav {
 }
 
 .jumbotron img {
-    max-width: 20%;
+    width: min(250px, 75%);
     box-shadow: 0 0 50px 15px #404fc0;
     transition: all 0.4s ease-in-out;
 }
@@ -100,7 +96,7 @@ nav {
 }
 
 #Contact {
-    font-size: 20px;
+    font-size: 15px;
     padding-bottom: 80px;
     background-color: white;
 }
