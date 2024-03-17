@@ -22,7 +22,7 @@
 
 #About {
     margin-top: 50px;
-    margin-bottom: 50px;
+    /* margin-bottom: 50px; */
 }
 
 #Projects {
@@ -101,12 +101,12 @@
     background-color: white;
 }
 
-#Contact button {
+#Contact .btn-kirim {
     background-color: #1e1e66;
     color: white;
 }
 
-#Contact button:hover {
+#Contact .btn-kirim:hover {
     background-color: #3d3daa;
 }
 
